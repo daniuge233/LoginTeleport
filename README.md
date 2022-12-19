@@ -20,7 +20,7 @@
 
 --------
 ### 自定义
-在加载完插件后, plugins文件夹下会多出一个LoginTeleprt文件夹, 那里面是插件的配置文件。<br/>
+在加载完插件后, plugins文件夹下会多出一个LoginTeleport文件夹, 那里面是插件的配置文件。<br/>
 该文件夹下的config.yml文件是总配置文件。<br/>
 其中:<br/>
 - languages下保存的是提示内容
