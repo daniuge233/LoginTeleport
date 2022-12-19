@@ -1,0 +1,9 @@
+languages:
+  notPlayer: "您不是玩家!"
+  setpos: "设置成功！"
+  unknownParameter: "未知参数"
+
+Position:
+  x: 0
+  y: 0
+  z: 0

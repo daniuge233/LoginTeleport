@@ -1,0 +1,10 @@
+main: org.ddxgbc.LoginTeleport.main
+name: LoginTeleport
+version: beta1.0
+author: DDXGBC Network
+commands:
+  lt:
+    description: "Main command of LoginTeleport"
+    usage: /lt <1>
+    permission: "lt.cmd"
+    permission-message: "您没有权限运行该指令"
