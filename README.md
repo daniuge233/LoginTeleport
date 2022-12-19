@@ -29,7 +29,7 @@
 首次启动后, Position下的三个参数都为0. 不要担心, 系统不会读取值为0的变量.<br/>
 在使用/lt add命令添加完坐标后这个值会变为您设置的值。<br/><br/>
 在languages下:
-- nopPlayer控制如果执行/lt指令的对象不是玩家时的提示
+- notPlayer控制如果执行/lt指令的对象不是玩家时的提示
 - setpos控制设置成功后的提示
 - unknownParameter控制如果没有参数的提示(这个可能不工作)<br/>
 
